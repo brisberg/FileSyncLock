@@ -1,0 +1,3 @@
+user_email=foobar@gmail.com
+gdrive_path=C:\Users\Brandon Risberg\Google Drive\FileSyncLocks\Valheim
+valheim_worlds_path=C:\Users\Brandon Risberg\AppData\LocalLow\IronGate\Valheim\worlds
