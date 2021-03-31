@@ -1,4 +1,4 @@
 user_email=foobar@gmail.com
 world_name=TestSync
-gdrive_path=C:\Users\<USER>>\Google Drive\FileSyncLocks\Valheim
-valheim_worlds_path=C:\Users\<USER>>\AppData\LocalLow\IronGate\Valheim\worlds
+gdrive_path=C:\Users\<USER>\Google Drive\FileSyncLocks\Valheim
+valheim_worlds_path=C:\Users\<USER>\AppData\LocalLow\IronGate\Valheim\worlds
